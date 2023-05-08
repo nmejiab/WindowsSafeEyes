@@ -20,4 +20,4 @@ In the root project folder:
 py .\main.py
 ```
 
-![Hello i'm under the water](https://i.pinimg.com/736x/50/b7/56/50b756a079f2096c933a02f8f7211b43.jpg)
+![Hello i'm under the water](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IQEOPKYLHNEZNM4XWQCUD5UISU.jpg)
