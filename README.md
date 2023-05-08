@@ -6,7 +6,7 @@ To get the repository could be useful get GIT for windows it could be gotten in 
 
 
 ## Build
-First of all you must clone the repository in your windows10 machine to get the project
+First of all you must clone the repository in your windows10 computer to get the project
 ```
 git clone https://github.com/nmejiab/WindowsSafeEyes.git
 ```
