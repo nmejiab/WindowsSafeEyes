@@ -19,6 +19,5 @@ In the root project folder:
 ```
 py .\main.py
 ```
-![image](https://user-images.githubusercontent.com/49196798/236955607-96dc73af-607c-4c8f-8999-63aedfe05e28.png)
-
+## Grecias totales
 ![Hello i'm under the water](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IQEOPKYLHNEZNM4XWQCUD5UISU.jpg)
