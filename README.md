@@ -20,4 +20,4 @@ In the root project folder:
 py .\main.py
 ```
 ## Grecias totales
-![Hello i'm under the water](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IQEOPKYLHNEZNM4XWQCUD5UISU.jpg)
+![Grecias totales](https://www.diariodecultura.com.ar/wp-content/uploads/2022/09/werwerwe-1.png)
