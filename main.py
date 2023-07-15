@@ -12,9 +12,9 @@ def quit_app():
     root.quit()
 
 def minimize():
-    root.withdraw() # Ocultar la ventana de tkinter
-    menu = pystray.Menu(pystray.MenuItem('Abrir', show_window), pystray.MenuItem('Salir', quit_app))
-    tray_icon = pystray.Icon('nombre_icono', icon,  'Mensaje de tooltip', menu)
+    root.withdraw() # Hide tkinter window
+    menu = pystray.Menu(pystray.MenuItem('Abrir', show_window), pystray.MenuItem('Leave', quit_app))
+    tray_icon = pystray.Icon('icon name', icon,  'tooltip message', menu)
     tray_icon.run()
 
 
