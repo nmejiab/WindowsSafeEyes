@@ -1,12 +1,12 @@
 # WindowsSafeEyes
 Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder on Windows
 
-## Requierements
-* To get the repository could be useful get GIT for windows it could be gotten in [this link](https://git-scm.com/downloads)
-* Python can be gotten in [this link](https://www.python.org)
+## Requirements
+* To get the repository could be useful get GIT for windows it can be retrieved from [this link](https://git-scm.com/downloads)
+* Python can be found at [this link](https://www.python.org)
 
 ## Build
-1. Clone the repository in your windows10 computer to get the project
+1. Clone the repository in your Windows 10 computer to get the project
 ```
 git clone https://github.com/nmejiab/WindowsSafeEyes.git
 ```
